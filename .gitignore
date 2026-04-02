@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Windows/WSL stream metadata
+*:Zone.Identifier
+
+# Large / local artifacts (do not push to GitHub)
+*.wav
+# Duplicate checkpoint in repo root; prefer export/rain_cnn_best.pt for GitHub
+/rain_cnn_best.pt
+
+# Optional: uncomment if you prefer not to host weights (use GitHub Releases instead)
+# export/*.pt

@@ -1,0 +1,10 @@
+{
+    "SR": 44100,
+    "DURATION": 4.0,
+    "N_MELS": 64,
+    "N_FFT": 2048,
+    "HOP_LENGTH": 1024,
+    "FMIN": 20,
+    "FMAX": 22050,
+    "THRESHOLD": 0.5
+}
